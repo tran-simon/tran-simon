@@ -1,5 +1,6 @@
 # 💫 About Me:
-Computer engineering student at Polytechnique Montreal
+Lead software dev @ Ora-Medical
+
 
 # 📃 Resume:
 

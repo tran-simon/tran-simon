@@ -1,10 +1,5 @@
 # 💫 About Me:
-Lead software dev @ Ora-Medical
-
-
-# 📃 Resume:
-
-### [tran-simon.github.io/resume.pdf](https://tran-simon.github.io/resume.pdf) ([french version](https://tran-simon.github.io/resume_fr.pdf))
+Front-End Engineer II @ AWS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/transimon99) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6592293) 
